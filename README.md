@@ -16,4 +16,4 @@ Created Automated Instagram Profile( Likes, Comments, Follows and Posts automati
 - 📫 How to reach me:
   [Twitter](https://twitter.com/thenaamsake), [Stack Overflow](https://stackoverflow.com/users/8064382/chindicoder)
 
-![Nilay's github stats](https://github-readme-stats.vercel.app/api?username=sharmanilay&show_icons=true&hide_border=true)
+![Nilay's github stats](https://github-readme-stats.vercel.app/api?username=sharmanilay&show_icons=true&hide_border=true&count_private=true)
