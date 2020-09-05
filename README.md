@@ -2,7 +2,7 @@
 
 ## I'm Nilay Sharma👋
 
-I work as **Software Engineer**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, Vue JS, React Native, NodeJS, MongoDB, Java, Ruby on Rails, Python, HTML, CSS, JavaScript** Strong engineering professional with a B.Tech in Computer Science Engineering from The LNM Institute of Information Technology.
+I work as a **Software Engineer**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, Vue JS, React Native, NodeJS, MongoDB, Java, Ruby on Rails, Python, HTML, CSS, JavaScript** Strong engineering professional with a B.Tech in Computer Science Engineering from The LNM Institute of Information Technology.
 
 Author of NPM Package: [React Easy Bar Chart](https://www.npmjs.com/package/react-easy-bar-chart)  
 
