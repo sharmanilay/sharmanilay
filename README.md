@@ -6,7 +6,7 @@ I work as a **Software Engineer**. I am an Experienced **Fullstack Developer** w
 
 Author of NPM Package: [React Easy Bar Chart](https://www.npmjs.com/package/react-easy-bar-chart) 
 
-Created Astropedia - Monitor asteroids information live: [Astropedia](https://astropedia.netlify.app/) 
+Created Astropedia - Monitor asteroid information live: [Astropedia](https://astropedia.netlify.app/) 
 
 Created Automated Instagram Profile( Likes, Comments, Follows and Posts automatically): [Make Travel Goals Instagram](https://www.instagram.com/maketravelgoals/)
 
