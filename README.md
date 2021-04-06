@@ -2,7 +2,16 @@
 
 ## I'm Nilay Sharma👋
 
-I work as a **Software Engineer**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, Vue JS, React Native, NodeJS, MongoDB, Java, Ruby on Rails, Python, HTML, CSS, JavaScript** Strong engineering professional with a B.Tech in Computer Science Engineering from The LNM Institute of Information Technology.
+I work as a **Software Engineer**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry with a B.Tech in Computer Science Engineering from The LNM Institute of Information Technology.
+
+# Skills:
+
+Proficiency: **JavaScript, React, Vue, Express, Redux, Typescript**
+
+Also working with: Ruby on Rails, MySQL, MongoDB, Python
+
+
+# Highlights
 
 Author of NPM Package: [React Easy Bar Chart](https://www.npmjs.com/package/react-easy-bar-chart) 
 
@@ -13,7 +22,7 @@ Created Automated Instagram Profile( Likes, Comments, Follows and Posts automati
 ---
 
 - 🔭 I’m currently working as **Software Engineer @ Drip Capital Inc.**
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **React Native**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 📫 How to reach me:
   [Twitter](https://twitter.com/thenaamsake), [Stack Overflow](https://stackoverflow.com/users/8064382/chindicoder)
