@@ -4,14 +4,14 @@
 
 I work as a **Software Engineer**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry with a B.Tech in Computer Science Engineering from The LNM Institute of Information Technology.
 
-# Skills:
+### Skills:
 
 Proficiency: **JavaScript, React, Vue, Express, Redux, Typescript**
 
 Also working with: Ruby on Rails, MySQL, MongoDB, Python
 
 
-# Highlights
+### Highlights
 
 Author of NPM Package: [React Easy Bar Chart](https://www.npmjs.com/package/react-easy-bar-chart) 
 
