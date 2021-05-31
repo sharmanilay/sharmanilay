@@ -22,7 +22,7 @@ Created Automated Instagram Profile( Likes, Comments, Follows and Posts automati
 ---
 
 - 🔭 I’m currently working as **Software Engineer @ Drip Capital Inc.**
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 📫 How to reach me:
   [Twitter](https://twitter.com/thenaamsake), [Stack Overflow](https://stackoverflow.com/users/8064382/chindicoder)
