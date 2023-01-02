@@ -2,7 +2,7 @@
 
 ## I'm Nilay Sharma👋
 
-I work as a **Software Engineer**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry with a B.Tech in Computer Science Engineering from The LNM Institute of Information Technology.
+I work as a **Senior Application Engineer** at Trajektory. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry with a B.Tech in Computer Science Engineering from The LNM Institute of Information Technology.
 
 ### Skills:
 
