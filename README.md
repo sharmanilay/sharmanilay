@@ -20,6 +20,7 @@ I work as a **Senior Application Engineer** at Trajektory. I am an Experienced *
     </td>
     <td>
       <h4>Experience</h4>
+      <img height="22" src="https://shields.io/badge/ChatGPT-0d2c54" alt="ChatGPT">
       <img height="22" src="https://shields.io/badge/NuxtJS-0d2c54" alt="NuxtJS">
       <img height="22" src="https://shields.io/badge/NextJS-0d2c54" alt="NextJS">
       <img height="22" src="https://shields.io/badge/Python-0d2c54" alt="Python">
