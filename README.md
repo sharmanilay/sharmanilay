@@ -2,7 +2,7 @@
 
 ## I'm Nilay Sharma👋
 
-I work as a **Senior Application Engineer** at Trajektory. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry with a B.Tech in Computer Science Engineering from The LNM Institute of Information Technology.
+I cook up immaculate applications as the **Senior Application Engineer** at **Trajektory**. It all started with my B.Tech in Computer Science from The LNM Institute of Information Technology. Now, I'm a hardened **Fullstack Developer**, a virtuoso in the ruthless and relentless world of IT. **I am the danger, the one who knocks... out bugs and delivers top-tier code, that is.**
 
 ### Skills:
 
@@ -43,6 +43,8 @@ I work as a **Senior Application Engineer** at Trajektory. I am an Experienced *
 
 ### Highlights
 
+Created Movie Reccomendation System: [Get What To Watch](www.getwhattowatch.com) 
+
 Author of NPM Package: [React Easy Bar Chart](https://www.npmjs.com/package/react-easy-bar-chart) 
 
 Created Astropedia - Monitor Asteroid Information Live: [Astropedia](https://astropedia.netlify.app/) 
@@ -50,7 +52,7 @@ Created Astropedia - Monitor Asteroid Information Live: [Astropedia](https://ast
 ---
 
 - 🔭 I’m currently working as **Senior Software Engineer @ Trajektory, LLC.**
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **ChatGPT and OPENAI APIs**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 📫 How to reach me:
   [Twitter](https://twitter.com/thenaamsake), [Stack Overflow](https://stackoverflow.com/users/8064382/chindicoder)
