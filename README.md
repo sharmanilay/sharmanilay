@@ -56,5 +56,3 @@ Created Astropedia - Monitor Asteroid Information Live: [Astropedia](https://ast
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 📫 How to reach me:
   [Twitter](https://twitter.com/thenaamsake), [Stack Overflow](https://stackoverflow.com/users/8064382/chindicoder)
-
-![Nilay's github stats](https://github-readme-stats.vercel.app/api?username=sharmanilay&show_icons=true&hide_border=true&count_private=true&theme=dracula)
