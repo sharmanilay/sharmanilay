@@ -43,7 +43,7 @@ I cook up immaculate applications as the **Senior Application Engineer** at **Tr
 
 ### Highlights
 
-Created Movie Reccomendation System: [Get What To Watch](www.getwhattowatch.com) 
+Created Movie Reccomendation System: [Get What To Watch](https://www.getwhattowatch.com) 
 
 Author of NPM Package: [React Easy Bar Chart](https://www.npmjs.com/package/react-easy-bar-chart) 
 
