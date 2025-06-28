@@ -43,7 +43,9 @@ I cook up immaculate applications as the **Senior Application Engineer** at **Tr
 
 ### Highlights
 
-Created Movie Reccomendation System: [Get What To Watch](https://www.getwhattowatch.com) 
+Viral Products Finder: [Viral Products Finder](https://viralproductsfinder.vercel.app/)
+
+Created Movie Reccomendation System: [Get What To Watch](https://whattowatch-sharmanilay.vercel.app/) 
 
 Author of NPM Package: [React Easy Bar Chart](https://www.npmjs.com/package/react-easy-bar-chart) 
 
@@ -52,7 +54,7 @@ Created Astropedia - Monitor Asteroid Information Live: [Astropedia](https://ast
 ---
 
 - 🔭 I’m currently working as **Senior Software Engineer @ Trajektory, LLC.**
-- 🌱 I’m currently learning **ChatGPT and OPENAI APIs**
-- 👯 I’m looking to collaborate on open source/commercial projects
+- 🌱 I’m build plug n play AI Tools using **OpenAI, Gemini and Anthropic**
+- 👯 I’m open to collaborate on open source/commercial projects
 - 📫 How to reach me:
   [Twitter](https://twitter.com/thenaamsake), [Stack Overflow](https://stackoverflow.com/users/8064382/chindicoder)
