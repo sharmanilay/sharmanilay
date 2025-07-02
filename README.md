@@ -54,7 +54,7 @@ Created Astropedia - Monitor Asteroid Information Live: [Astropedia](https://ast
 ---
 
 - 🔭 I’m currently working as **Senior Software Engineer @ Trajektory, LLC.**
-- 🌱 I’m build plug n play AI Tools using **OpenAI, Gemini and Anthropic**
+- 🌱 I’m building plug n play AI Tools using **OpenAI, Gemini and Anthropic**
 - 👯 I’m open to collaborate on open source/commercial projects
 - 📫 How to reach me:
   [Twitter](https://twitter.com/thenaamsake), [Stack Overflow](https://stackoverflow.com/users/8064382/chindicoder)
