@@ -2,59 +2,57 @@
 
 ## I'm Nilay Sharma👋
 
-I cook up immaculate applications as the **Senior Application Engineer** at **Trajektory**. It all started with my B.Tech in Computer Science from The LNM Institute of Information Technology. Now, I'm a hardened **Fullstack Developer**, a virtuoso in the ruthless and relentless world of IT. **I am the danger, the one who knocks... out bugs and delivers top-tier code, that is.**
+I cook up immaculate micro SaaS as the **Principle Software Consultant** at **Digital Prysm Labs**. It all started with my B.Tech in Computer Science from The LNM Institute of Information Technology. Now, I'm a hardened **Fullstack Developer**, a virtuoso in the ruthless and relentless world of IT. **I am the danger, the one who knocks... out bugs and delivers top-tier code, that is.**
 
 ### Skills:
 
 <table>
   <tr>
     <td>
-      <h4>Proficiency</h4>
-      <img height="22" src="https://shields.io/badge/Javascript-d1603d" alt="Javascript">
-      <img height="22" src="https://shields.io/badge/React-d1603d" alt="React">
-      <img height="22" src="https://shields.io/badge/Vue-d1603d" alt="Vue">
-      <img height="22" src="https://shields.io/badge/Zustand-d1603d" alt="Zustand">
-      <img height="22" src="https://shields.io/badge/Express-d1603d" alt="Express">
-      <img height="22" src="https://shields.io/badge/MySQL-d1603d" alt="MySQL">
-      <img height="22" src="https://shields.io/badge/MongoDB-d1603d" alt="MongoDB">
+      <h4>Core Engineering</h4>
+      <img height="22" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+      <img height="22" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+      <img height="22" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">
+      <img height="22" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white">
+      <img height="22" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white">
+      <img height="22" src="https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=white">
+      <img height="22" src="https://img.shields.io/badge/Zustand-443E38">
+      <img height="22" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white">
+      <img height="22" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white">
+      <img height="22" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white">
+      <img height="22" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
+      <img height="22" src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white">
     </td>
     <td>
-      <h4>Experience</h4>
-      <img height="22" src="https://shields.io/badge/ChatGPT-0d2c54" alt="ChatGPT">
-      <img height="22" src="https://shields.io/badge/NuxtJS-0d2c54" alt="NuxtJS">
-      <img height="22" src="https://shields.io/badge/NextJS-0d2c54" alt="NextJS">
-      <img height="22" src="https://shields.io/badge/Python-0d2c54" alt="Python">
-      <img height="22" src="https://shields.io/badge/Ruby_on_Rails-0d2c54" alt="Ruby on Rails">
-      <img height="22" src="https://shields.io/badge/BigQuery-0d2c54" alt="BigQuery">
-      <img height="22" src="https://shields.io/badge/GCP-0d2c54" alt="GCP">
-      <img height="22" src="https://shields.io/badge/PostgreSQL-0d2c54" alt="PostgreSQL">
-      <img height="22" src="https://shields.io/badge/Typescript-0d2c54" alt="Typescript">
+      <h4>Infrastructure</h4>
+      <img height="22" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+      <img height="22" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white">
+      <img height="22" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white">
+      <img height="22" src="https://img.shields.io/badge/BigQuery-669DF6?logo=googlebigquery&logoColor=white">
     </td>
     <td>
-      <h4>Exposure</h4>
-      <img height="22" src="https://shields.io/badge/Solidity-0b7a75" alt="Solidity">
-      <img height="22" src="https://shields.io/badge/AWS-0b7a75" alt="AWS">
-      <img height="22" src="https://shields.io/badge/Docker-0b7a75" alt="Docker">
-      <img height="22" src="https://shields.io/badge/Firebase-0b7a75" alt="Firebase"> 
+      <h4>AI Systems</h4>
+      <img height="22" src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white">
+      <img height="22" src="https://img.shields.io/badge/Gemini-4285F4">
+      <img height="22" src="https://img.shields.io/badge/RAG-111111">
+      <img height="22" src="https://img.shields.io/badge/Vector_DB-8A2BE2">
+      <img height="22" src="https://img.shields.io/badge/AI_Agents-0A0A0A">
+      <img height="22" src="https://img.shields.io/badge/Model_Context_Protocol-FF6F00">
     </td>
-   </tr>
+  </tr>
 </table>
 
 
-### Highlights
 
-Viral Products Finder: [Viral Products Finder](https://viralproductsfinder.vercel.app/)
 
-Created Movie Reccomendation System: [Get What To Watch](https://whattowatch-sharmanilay.vercel.app/) 
+### Micro SaaS Tools I have created
 
-Author of NPM Package: [React Easy Bar Chart](https://www.npmjs.com/package/react-easy-bar-chart) 
+Privacy First, Native, Centralized AI Memory: [Promptery](https://promptery.app/)  
+Multiplatform Content Generation Made Effortless: [Hype My Hustle](https://hypemyhustle.com/)   
+Social Media Automation in a Snap: [Influmint](https://www.influmint.com)   
 
-Created Astropedia - Monitor Asteroid Information Live: [Astropedia](https://astropedia.netlify.app/) 
 
 ---
-
-- 🔭 I’m currently working as **Senior Software Engineer @ Trajektory, LLC.**
-- 🌱 I’m building plug n play AI Tools using **OpenAI, Gemini and Anthropic**
 - 👯 I’m open to collaborate on open source/commercial projects
 - 📫 How to reach me:
-  [Twitter](https://twitter.com/thenaamsake), [Stack Overflow](https://stackoverflow.com/users/8064382/chindicoder)
+  [Twitter](https://x.com/@dohypemyhustle)
