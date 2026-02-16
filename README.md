@@ -1,5 +1,3 @@
-![Banner Image](https://github.com/sharmanilay/sharmanilay/blob/master/banner.png)
-
 ## I'm Nilay Sharma👋
 
 I cook up immaculate micro SaaS as the **Principle Software Consultant** at **Digital Prysm Labs**. It all started with my B.Tech in Computer Science from The LNM Institute of Information Technology. Now, I'm a hardened **Fullstack Developer**, a virtuoso in the ruthless and relentless world of IT. **I am the danger, the one who knocks... out bugs and delivers top-tier code, that is.**
@@ -43,14 +41,11 @@ I cook up immaculate micro SaaS as the **Principle Software Consultant** at **Di
 </table>
 
 
-
-
 ### Micro SaaS Tools I have created
 
 Privacy First, Native, Centralized AI Memory: [Promptery](https://promptery.app/)  
 Multiplatform Content Generation Made Effortless: [Hype My Hustle](https://hypemyhustle.com/)   
 Social Media Automation in a Snap: [Influmint](https://www.influmint.com)   
-
 
 ---
 - 👯 I’m open to collaborate on open source/commercial projects
