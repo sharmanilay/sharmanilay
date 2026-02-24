@@ -24,9 +24,12 @@ I cook up immaculate micro SaaS as the **Principle Software Consultant** at **Di
     <td>
       <h4>Infrastructure</h4>
       <img height="22" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+      <img height="22" src="https://img.shields.io/badge/Dokploy-000000?logo=docker&logoColor=white" />
       <img height="22" src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white">
       <img height="22" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white">
       <img height="22" src="https://img.shields.io/badge/BigQuery-669DF6?logo=googlebigquery&logoColor=white">
+      <img height="22" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
+      <img height="22" src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
     </td>
     <td>
       <h4>AI Systems</h4>
